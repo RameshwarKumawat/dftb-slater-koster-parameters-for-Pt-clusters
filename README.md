@@ -19,8 +19,8 @@ If you use these files in your research, please cite:
 ```bibtex
 @article{kumawat2025dftbptparameter,
   author = {Kumawat, Rameshwar, Mueller, Chelsea and Schatz, George},
-  title = {},
-  journal = {Journal of Physical Chemistry C},
+  title = {Efficient density functional tight-binding parameterization for accurate modeling of platinum clusters},
+  journal = {Chemical Physics Letter},
   year = {2025},
   volume = {xx},
   number = {x},
