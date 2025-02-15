@@ -13,7 +13,7 @@ This repository contains ground state (GS) Slater-Koster parameter files in DFTB
 If you use these files in your research, please cite:
 
 **Kumawat, R.L., Mueller, C.M., Schatz, G.C., Efficient density functional tight-binding parameterization for accurate modeling of platinum clusters, *Chemical Physics Letter*, 2025**  
-[![DOI](https://zenodo.org/badge/DOI/10.1021/acs.jpcc.4c08100.svg)](https://doi.org/10.1021/acs.jpcc.4c08100)
+[![DOI](https://zenodo.org/badge/DOI/10.1016/j.cplett.2025.141944.svg)](https://doi.org/10.1016/j.cplett.2025.141944)
 
 ### BibTeX:
 ```bibtex
