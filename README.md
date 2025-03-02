@@ -22,7 +22,7 @@ If you use these files in your research, please cite:
   title = {Efficient density functional tight-binding parameterization for accurate modeling of platinum clusters},
   journal = {Chemical Physics Letter},
   year = {2025},
-  volume = {xx},
+  volume = {866},
   number = {x},
   pages = {141944},
   doi = {[10.1016/j.cplett.2025.141944]}
