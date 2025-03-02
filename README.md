@@ -17,14 +17,11 @@ If you use these files in your research, please cite:
 
 ### BibTeX:
 ```bibtex
-@article{kumawat2025dftbptparameter,
-  author = {Kumawat, Rameshwar, Mueller, Chelsea and Schatz, George},
-  title = {Efficient density functional tight-binding parameterization for accurate modeling of platinum clusters},
-  journal = {Chemical Physics Letter},
-  year = {2025},
-  volume = {866},
-  number = {x},
-  pages = {141944},
-  doi = {[10.1016/j.cplett.2025.141944]}
-  publisher={Elsevier Publications}
+@article{kumawat2025efficient,
+  title={Efficient density functional tight-binding parameterization for accurate modeling of platinum clusters},
+  author={Kumawat, Rameshwar L and Mueller, Chelsea M and Schatz, George C},
+  journal={Chemical Physics Letters},
+  pages={141944},
+  year={2025},
+  publisher={Elsevier}
 }
